@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Special Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            width: 300px;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome ❤️</h1>
+
+    <!-- Image -->
+    <img src="photo.jpg" alt="My Photo">
+
+    <!-- Song -->
+    <audio controls autoplay loop>
+        <source src="song.mp3" type="audio/mpeg">
+    </audio>
+
+</body>
+</html>
